@@ -33,6 +33,6 @@ It also pairs closely with:
 
 ## Citation / DOI
 
-Zenodo DOI: DOI PENDING
+Zenodo DOI: https://doi.org/10.5281/zenodo.19739225
 
 PDF available via DOI link once published.
